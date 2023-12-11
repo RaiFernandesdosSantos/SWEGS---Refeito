@@ -18,7 +18,7 @@ export default function Header() {
             </a>
           </li>
           <li className="nav-item">
-            <a href="/funcionario" className="nav-link">
+            <a href="/sistema/funcionario" className="nav-link">
               Funcionarios
             </a>
           </li>

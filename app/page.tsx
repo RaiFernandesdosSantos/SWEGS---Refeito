@@ -40,7 +40,7 @@ export default function Main() {
           </div>
 
           <div className="w-100 d-flex justify-content-end gap-3">
-            <a href="/home" className="btn btn-primary">
+            <a href="/sistema" className="btn btn-primary">
               Entrar
             </a>
             <a href="/cadastro" className="btn btn-warning">
